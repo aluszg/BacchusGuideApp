@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/bacchus_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/layout_margin_bottom_text"
+            android:textSize="@dimen/bacchus_name_text"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="@dimen/bacchus_layout_width"
+            android:layout_height="@dimen/bacchus_layout_height"
+            android:layout_marginBottom="@dimen/layout_margin_bottom_text"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/bacchus_description"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bacchus_description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layout_margin_bottom_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/bacchus_author"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bacchus_author"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layout_margin_bottom_text" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/bacchus_founder"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bacchus_founder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layout_margin_bottom_text" />
+    </TableLayout>
+</ScrollView>

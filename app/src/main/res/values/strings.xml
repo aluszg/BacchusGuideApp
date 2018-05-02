@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Bacchus route in Zielona GÃ³ra</string>
+    <string name="maps">Map</string>
+    <string name="bacchus_description">Description</string>
+    <string name="bacchus_author">Author</string>
+    <string name="bacchus_founder">Founder</string>
+
+    <string name="bacchus_a">A</string>
+    <string name="bacchus_1_name">Aldemedus</string>
+    <string name="bacchus_1_description">Aleja Niepodległości, Zielona Góra</string>
+    <string name="bacchus_1_author">Artur Wochniak</string>
+    <string name="bacchus_1_founder">Aldemed</string>
+    <string name="bacchus_2_name">Artemida</string>
+    <string name="bacchus_2_description">Pod Filarami</string>
+    <string name="bacchus_2_author">Andrzej Moskaluk</string>
+    <string name="bacchus_2_founder">Myśliwi i sympatycy łowiectwa</string>
+    <string name="bacchus_3_name">Artifex ZOKus</string>
+    <string name="bacchus_3_description">Festiwalowa</string>
+    <string name="bacchus_3_author">Robert Tomak</string>
+    <string name="bacchus_3_founder">Zielonogórski Ośrodek Kultury</string>
+
+    <string name="bacchus_b">B</string>
+    <string name="bacchus_4_name">Beczkus</string>
+    <string name="bacchus_4_description">Stefana Żeromskiego</string>
+    <string name="bacchus_4_author">Małgorzata Bukowicz</string>
+    <string name="bacchus_4_founder">Firma LUG</string>
+    <string name="bacchus_5_name">Belferus Zenepus</string>
+    <string name="bacchus_5_description">Generała Władysława Sikorskiego</string>
+    <string name="bacchus_5_author">Artur Wochniak</string>
+    <string name="bacchus_5_founder">Związek Nauczycielstwa Polskiego</string>
+    <string name="bacchus_6_name">Brukus</string>
+    <string name="bacchus_6_description">Stefana Żeromskiego</string>
+    <string name="bacchus_6_author">Artur Wochniak</string>
+    <string name="bacchus_6_founder">Firma Capri-bis</string>
+
+    <string name="bacchus_c">C</string>
+    <string name="bacchus_7_name">Canishuberticus›</string>
+    <string name="bacchus_7_description">Pod Filarami</string>
+    <string name="bacchus_7_author">Andrzej Moskaluk</string>
+    <string name="bacchus_7_founder">Myśliwi, Wojciech Sroka, firma Ziton</string>
+    <string name="bacchus_8_name">Ciekawek›</string>
+    <string name="bacchus_8_description">Stary Rynek</string>
+    <string name="bacchus_8_author">Artur Wochniak</string>
+    <string name="bacchus_8_founder">miasto Zielona Góra</string>
+    <string name="bacchus_9_name">Ciepłolubikus›</string>
+    <string name="bacchus_9_description">Plac Powstańców Wielkopolskich</string>
+    <string name="bacchus_9_author">Artur Wochniak</string>
+    <string name="bacchus_9_founder">Elektrociepłownia Zielona Góra</string>
+    <string name="bacchus_10_name">Clubikus›</string>
+    <string name="bacchus_10_description">Krawicka</string>
+    <string name="bacchus_10_author">Artur Wochniak</string>
+    <string name="bacchus_10_founder">Czar PRL-u</string>
+    <string name="bacchus_11_name">Czasuś›</string>
+    <string name="bacchus_11_description">Jedności 4a</string>
+    <string name="bacchus_11_author">Robert Tomak</string>
+    <string name="bacchus_11_founder">Zegarmistrz Wiesław Pierzyna</string>
+
+    <string name="bacchus_d">D</string>
+    <string name="bacchus_12_name">Degustikus›</string>
+    <string name="bacchus_12_description">Pod Topolami</string>
+    <string name="bacchus_12_author"> Artur Wochniak</string>
+    <string name="bacchus_12_founder">Restauracja Ramzes</string>
+
+</resources>
